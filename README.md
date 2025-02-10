@@ -73,4 +73,4 @@ $> 001
 
 5️⃣ Exiting the Program
 $> 4
-Thank you for using Kood/note!
+Thank you for using note!
